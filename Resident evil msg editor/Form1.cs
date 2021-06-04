@@ -31,7 +31,7 @@ namespace Resident_evil_msg_editor
             {
                 MessageBox.Show("msg reconhecido");
                 {
-                    Message.Box.Show("msg não reconhecido");
+                    MessageBox.Show("msg não reconhecido");
                 }
             }
         }
