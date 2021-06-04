@@ -31,15 +31,21 @@ namespace Resident_evil_msg_editor
             {
                 MessageBox.Show("msg reconhecido");
                 {
-                    Message.Box.Show("msg não reconhecido");
+                    MessageBox.Show("msg não reconhecido");
                 }
             }
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            OpenFileDialog ofd = new OpenFileDialog();
-            ofd.Title = "Open Title";
+            SaveFileDialog sfd = new SaveFileDialog();
+            sfd.Title = "Open Title";
+            sfd.Filter = "msg file|*.msg *.MSG .*MSG2|MSG|*.MSG|MSG2|* .MSG2";
+            if (sfd.ShowDialog() == System.Windows.Forms.DialogResult.OK) ;
+            {
+                MessageBox.Show("Arquivo msg exportado com sucesso");
+            }
+
         }
     }
 }

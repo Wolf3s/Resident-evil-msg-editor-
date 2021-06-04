@@ -8,3 +8,13 @@ C:\Users\andre\source\repos\Resident evil msg editor\Resident evil msg editor\Re
 C:\Users\andre\source\repos\Resident evil msg editor\Resident evil msg editor\Resident evil msg editor\obj\Debug\Resident evil msg editor.csproj.CoreCompileInputs.cache
 C:\Users\andre\source\repos\Resident evil msg editor\Resident evil msg editor\Resident evil msg editor\obj\Debug\Resident evil msg editor.exe
 C:\Users\andre\source\repos\Resident evil msg editor\Resident evil msg editor\Resident evil msg editor\obj\Debug\Resident evil msg editor.pdb
+C:\Users\andre\Source\Repos\Resident-evil-msg-editor-\Resident evil msg editor\bin\Debug\Resident evil msg editor.exe.config
+C:\Users\andre\Source\Repos\Resident-evil-msg-editor-\Resident evil msg editor\bin\Debug\Resident evil msg editor.exe
+C:\Users\andre\Source\Repos\Resident-evil-msg-editor-\Resident evil msg editor\bin\Debug\Resident evil msg editor.pdb
+C:\Users\andre\Source\Repos\Resident-evil-msg-editor-\Resident evil msg editor\obj\Debug\Resident evil msg editor.csproj.AssemblyReference.cache
+C:\Users\andre\Source\Repos\Resident-evil-msg-editor-\Resident evil msg editor\obj\Debug\Resident_evil_msg_editor.Tela1.resources
+C:\Users\andre\Source\Repos\Resident-evil-msg-editor-\Resident evil msg editor\obj\Debug\Resident_evil_msg_editor.Properties.Resources.resources
+C:\Users\andre\Source\Repos\Resident-evil-msg-editor-\Resident evil msg editor\obj\Debug\Resident evil msg editor.csproj.GenerateResource.cache
+C:\Users\andre\Source\Repos\Resident-evil-msg-editor-\Resident evil msg editor\obj\Debug\Resident evil msg editor.csproj.CoreCompileInputs.cache
+C:\Users\andre\Source\Repos\Resident-evil-msg-editor-\Resident evil msg editor\obj\Debug\Resident evil msg editor.exe
+C:\Users\andre\Source\Repos\Resident-evil-msg-editor-\Resident evil msg editor\obj\Debug\Resident evil msg editor.pdb
