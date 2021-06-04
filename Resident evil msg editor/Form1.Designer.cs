@@ -36,9 +36,9 @@ namespace Resident_evil_msg_editor
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(81, 278);
+            this.button1.Location = new System.Drawing.Point(110, 249);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(149, 28);
+            this.button1.Size = new System.Drawing.Size(113, 28);
             this.button1.TabIndex = 0;
             this.button1.Text = "Importar arquivo msg ";
             this.button1.UseVisualStyleBackColor = true;
@@ -56,7 +56,7 @@ namespace Resident_evil_msg_editor
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(571, 278);
+            this.button2.Location = new System.Drawing.Point(558, 249);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(130, 28);
             this.button2.TabIndex = 2;
@@ -73,7 +73,7 @@ namespace Resident_evil_msg_editor
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
             this.Name = "Tela1";
-            this.Text = "RESIDENT EVIL MSG EDITOR v0.1";
+            this.Text = "RESIDENT EVIL MSG EDITOR";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
