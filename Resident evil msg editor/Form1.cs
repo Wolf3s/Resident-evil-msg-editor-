@@ -30,7 +30,9 @@ namespace Resident_evil_msg_editor
             if (ofd.ShowDialog() == System.Windows.Forms.DialogResult.OK);
             {
                 MessageBox.Show("msg reconhecido");
-                MessageBox.Show("msg reconhecido");
+                {
+                    Message.Box.Show("msg não reconhecido");
+                }
             }
         }
 
