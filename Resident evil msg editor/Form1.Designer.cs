@@ -38,9 +38,9 @@ namespace Resident_evil_msg_editor
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(125, 249);
+            this.button1.Location = new System.Drawing.Point(106, 249);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(114, 28);
+            this.button1.Size = new System.Drawing.Size(125, 28);
             this.button1.TabIndex = 0;
             this.button1.Text = "Importar arquivo msg ";
             this.button1.UseVisualStyleBackColor = true;
