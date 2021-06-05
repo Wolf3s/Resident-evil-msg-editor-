@@ -68,7 +68,7 @@ namespace Resident_evil_msg_editor
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(328, 306);
+            this.button3.Location = new System.Drawing.Point(341, 302);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(114, 23);
             this.button3.TabIndex = 3;
